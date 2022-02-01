@@ -1,0 +1,35 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://cdn.unstoppabledomains.com/OkAwXht96RKpk2FteIhXtCqXoOY=/172x172/images/user/2433293/a604152c-efc2-4a98-81ec-cf4199ef46e6.jpeg",
+        "url_png_logo": "https://cdn.unstoppabledomains.com/OkAwXht96RKpk2FteIhXtCqXoOY=/172x172/images/user/2433293/a604152c-efc2-4a98-81ec-cf4199ef46e6.jpeg",
+        "location": "Cyb3rspace",
+        "social": {
+            "twitter_handle": "EnergySynk",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "/channel/UCdzpWwoRswzuJd1eV0H8Nbw",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "Synk Energy",
+            "addr": "",
+            "city": "San Francisco",
+            "country": "USA",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Carbon Negative Blockchain & NFT",
+            "server": "DH1-3",
+            "company": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "000"
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
